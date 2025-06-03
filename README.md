@@ -5,9 +5,9 @@ que podem ser de diferentes níveis de gravidade, nosso serviço consiste em ofe
 para as organizações poderem evitar acidentes de trabalho futuros.
 
 ## Equipe
-- [Leonardo Rego Teixeira][https://github.com/leonardo-tx] (Project Owner / Desenvolvedor)
-- [Luís Miguel Silva Amorim][https://github.com/LuisMSAmorim] (Desenvolvedor)
-- [Victor Matheus Paiva Vianna][https://github.com/viannapvictor] (Desenvolvedor)
+- [Leonardo Rego Teixeira](https://github.com/leonardo-tx) (Project Owner / Desenvolvedor)
+- [Luís Miguel Silva Amorim](https://github.com/LuisMSAmorim) (Desenvolvedor)
+- [Victor Matheus Paiva Vianna](https://github.com/viannapvictor) (Desenvolvedor)
 
 ![Página inicial do site](images/home-page.jpg?raw=true)
 
